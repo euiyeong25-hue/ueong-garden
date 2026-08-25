@@ -1,0 +1,19 @@
+baseURL = "https://example.org/"
+locale = "ko-KR"
+title = "우엉의 정원"
+theme = "PaperMod"
+
+[params]
+  description = "배우며 자라는 교육공학 연구 노트"
+
+[[menu.main]]
+  identifier = "about"
+  name = "소개"
+  url = "/about/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "posts"
+  name = "정원"
+  url = "/posts/"
+  weight = 20

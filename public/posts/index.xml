@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 우엉의 정원</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on 우엉의 정원</description>
+    <generator>Hugo</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Tue, 25 Aug 2026 09:15:44 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>첫 씨앗을 심으며</title>
+      <link>http://localhost:1313/posts/2026-08-25-%EC%B2%AB-%EC%94%A8%EC%95%97/</link>
+      <pubDate>Tue, 25 Aug 2026 09:15:44 +0900</pubDate>
+      <guid>http://localhost:1313/posts/2026-08-25-%EC%B2%AB-%EC%94%A8%EC%95%97/</guid>
+      <description>&lt;p&gt;정원을 열었다. 앞으로 매일 읽고 배운 것을 여기 심는다.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
